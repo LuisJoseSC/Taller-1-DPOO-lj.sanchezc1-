@@ -1,0 +1,12 @@
+tipo:Extra:1200:15000.0
+tipo:Corriente:800:22000.0
+tipo:Diesel:1000:20000.0
+tipo:Premiun:1700:9994.0
+surtidor:Marco Antonio :Extra:0.0:Corriente:0.0:Diesel:0.0:}Premiun:0.0
+surtidor:Juan Carlos:Extra:0.0:Corriente:0.0:Diesel:0.0:}Premiun:0.0
+surtidor:Andrea lucia:Extra:0.0:Corriente:0.0:Diesel:0.0:}Premiun:0.0
+surtidor:Andrea lucia:Extra:0.0:Corriente:0.0:Diesel:0.0:}Premiun:6.0
+empleado:Juan Carlos:0
+empleado:Sebastian Yatra:0
+empleado:Marco Antonio :0
+empleado:Andrea lucia:10200
